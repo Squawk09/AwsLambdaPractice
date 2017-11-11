@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "DecimalValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "DecimalToBinary"
+    },
+    {
+      "slots": [
+        {
+          "name": "BinaryValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "BinaryToDecimal"
+    },
+    {
+      "slots": [
+        {
+          "name": "myDecimalValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "DecimalToHex"
+    },
+    {
+      "slots": [
+        {
+          "name": "myBinaryValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "BinaryToHex"
+    },
+    {
+      "intent": "Tutorial"
+    },
+    {
+      "intent": "ListCommands"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

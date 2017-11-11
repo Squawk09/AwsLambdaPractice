@@ -1,0 +1,38 @@
+DecimalToBinary Decimal to binary {DecimalValue}
+DecimalToBinary convert decimal value {DecimalValue} to binary
+DecimalToBinary convert decimal value {DecimalValue} to bin
+DecimalToBinary convert {DecimalValue} to binary
+
+BinaryToDecimal Binary to decimal {BinaryValue}
+BinaryToDecimal Bin to decimal {BinaryValue}
+BinaryToDecimal convert binary value {BinaryValue} to decimal
+BinaryToDecimal convert binary value {BinaryValue} to regular number
+BinaryToDecimal convert binary {BinaryValue} to decimal
+BinaryToDecimal convert {BinaryValue} binary to decimal
+
+DecimalToHex decimal to hex {myDecimalValue}
+DecimalToHex decimal to hexidecimal {myDecimalValue}
+DecimalToHex dec to hex {myDecimalValue}
+DecimalToHex convert dec to hex {myDecimalValue}
+DecimalToHex convert decimal to hex {myDecimalValue}
+DecimalToHex convert decimal to hexidecimal {myDecimalValue}
+
+BinaryToHex binary to hex {myBinaryValue}
+BinaryToHex bin to hex {myBinaryValue}
+BinaryToHex binary to hexidecimal {myBinaryValue}
+BinaryToHex convert binary to hex {myBinaryValue}
+BinaryToHex convert bin to hex {myBinaryValue}
+BinaryToHex convert binary to hexidecimal {myBinaryValue}
+
+ListCommands list commands
+ListCommands list commmand 
+ListCommands list actions
+ListCommands what can you do
+ListCommands list your functions
+
+Tutorial how do you work
+Tutorial tutorial
+Tutorial I dont understand
+Tutorial how to use 
+Tutorial help me use you
+Tutorial this is wrong

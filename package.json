@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "alexa-sdk": "^1.0.18",
+    "aws-sdk": "^2.145.0",
+  },
+  "name": "binary calculator",
+  "version": "1.0.0",
+}
